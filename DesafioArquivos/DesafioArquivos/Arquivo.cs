@@ -13,8 +13,8 @@ namespace DesafioArquivos
             List<Aluno> alunos = new List<Aluno>();
 
             try
-            {                    
-                var arquivo = "C:\\Users\\joann\\Desktop\\Joanna\\01. AULAS\\Atos\\arquivo.txt";
+            {
+                string arquivo = "arquivo.txt";
                 StreamReader leitor = new StreamReader(arquivo);
 
                 while (!leitor.EndOfStream)
