@@ -1,0 +1,16 @@
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\obj\Debug\net6.0\DesafioArquivos.csproj.AssemblyReference.cache
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\obj\Debug\net6.0\DesafioArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\obj\Debug\net6.0\DesafioArquivos.AssemblyInfoInputs.cache
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\obj\Debug\net6.0\DesafioArquivos.AssemblyInfo.cs
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\obj\Debug\net6.0\DesafioArquivos.csproj.CoreCompileInputs.cache
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\bin\Debug\net6.0\DesafioArquivos.exe
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\bin\Debug\net6.0\arquivo.txt
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\bin\Debug\net6.0\DesafioArquivos.deps.json
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\bin\Debug\net6.0\DesafioArquivos.runtimeconfig.json
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\bin\Debug\net6.0\DesafioArquivos.dll
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\bin\Debug\net6.0\DesafioArquivos.pdb
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\obj\Debug\net6.0\DesafioArquivos.dll
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\obj\Debug\net6.0\refint\DesafioArquivos.dll
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\obj\Debug\net6.0\DesafioArquivos.pdb
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\obj\Debug\net6.0\DesafioArquivos.genruntimeconfig.cache
+C:\Users\joann\Desktop\Workspace\Atos\Inicial\DesafioArquivos\Alternativa1_DesafioArquivos\Alternativa1_DesafioArquivos\DesafioArquivos\DesafioArquivos\obj\Debug\net6.0\ref\DesafioArquivos.dll
