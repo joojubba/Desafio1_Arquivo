@@ -54,6 +54,7 @@ namespace DesafioArquivoWF
         }       
         private void textBoxSenha_TextChanged(object sender, EventArgs e)
         {
+            textBoxSenha.PasswordChar = '*';
         }  
         private void checkBoxQtd_CheckedChanged(object sender, EventArgs e)
         {
@@ -61,13 +62,9 @@ namespace DesafioArquivoWF
             {
                 Arquivo extrator = new Arquivo();             
                 (List<string> listagemAlunos, List<string> listagemPessoas) = extrator.ExtrairDados("arquivo.txt");
-                foreach (var item in listagemAlunos)
-                {
-                    textBoxQtd.Text = $"Pessoas: {listagemAlunos.Count}, Alunos: {listagemAlunos.Count}";              
-                }
                 foreach (var item in listagemPessoas)
                 {
-                    textBoxQtd.Text = $"Pessoas: {listagemPessoas.Count}, Alunos: {listagemAlunos.Count}";                  
+                    textBoxQtd.Text = $"Pessoas: {listagemPessoas.Count} - Alunos: {listagemAlunos.Count}";                  
                 }
             }
             else
@@ -116,6 +113,11 @@ namespace DesafioArquivoWF
         }
 
         private void pictureBox4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelMostrarObj_Click(object sender, EventArgs e)
         {
 
         }
