@@ -51,7 +51,7 @@ DesafioArquivos (Console) 🔻
 
 DesafioArquivos_WF (Windows Forms) 🔻
 
-![Desafio1Arquivo](https://github.com/joojubba/Desafio1_Arquivo/assets/89705012/148ca7aa-a1f1-405b-8e32-6b50e2aae9e8)
+![Desafio1Arquivo](https://github.com/joojubba/Desafio1_Arquivo/assets/89705012/bd5f3dbd-1872-46ff-9b7c-f4d4e03765d2)
 - Para acessar o aquivo é necessário digitar um login e senha qualquer, selecionar um ou mais checkbox para visualizar os dados do arquivo.
 
 
