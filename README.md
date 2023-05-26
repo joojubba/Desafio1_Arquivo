@@ -44,6 +44,7 @@ Linha Y:
 ## ✅ Realizado:
 
 O desafio conta com duas pastas:
+
 DesafioArquivos (Console) 🔻
 
 ![Desafio1Arquivo1](https://github.com/joojubba/Desafio1_Arquivo/assets/89705012/0fff099e-1d91-4c33-bfeb-bd56f0fe285c)
