@@ -75,10 +75,7 @@ namespace DesafioArquivoWF
                 textBoxQtd.Text = "";
             }
         }
-        private void buttonExtrairDados_Click(object sender, EventArgs e)
-        {
-
-        }
+        
         private void textBoxAlunos_TextChanged(object sender, EventArgs e)
         {
 
@@ -100,6 +97,26 @@ namespace DesafioArquivoWF
             {
                 textBoxLista.Text = "";
             }
+
+        }
+
+        private void labelSenha_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxLista_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void labelAlunos_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
 
         }
     }
