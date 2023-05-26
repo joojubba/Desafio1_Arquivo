@@ -45,9 +45,13 @@ Linha Y:
 
 O desafio conta com duas pastas:
 DesafioArquivos (Console) 🔻
+
 ![Desafio1Arquivo1](https://github.com/joojubba/Desafio1_Arquivo/assets/89705012/0fff099e-1d91-4c33-bfeb-bd56f0fe285c)
+
 DesafioArquivos_WF (Windows Forms) 🔻
-![Desafio1Arquivo](https://github.com/joojubba/Desafio1_Arquivo/assets/89705012/6ab08412-a4c4-433e-b74a-de1cf41728dd)
+
+![Desafio1Arquivo](https://github.com/joojubba/Desafio1_Arquivo/assets/89705012/148ca7aa-a1f1-405b-8e32-6b50e2aae9e8)
+- Para acessar o aquivo é necessário digitar um login e senha qualquer, selecionar um ou mais checkbox para visualizar os dados do arquivo.
 
 
 
